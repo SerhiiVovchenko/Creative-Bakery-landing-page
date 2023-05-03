@@ -6,7 +6,7 @@ Do you want something sweet?)
 
 No problem, because at the Demo link something incredibly sweet is waiting for you.
 
-Hurry up click on the [🍪DEMO LINK🍪()] while there are still some left.
+Hurry up click on the [🍪DEMO LINK🍪](https://serhiivovchenko.github.io/Creative-Bakery-landing-page/) while there are still some left.
 
 [Figma:rocket:](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=11342-1117)
 
